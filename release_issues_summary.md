@@ -24,5 +24,5 @@
 | 22 | Release for AKS Fleet 2024-05-02-preview API  |  |  |  | [#5519](https://github.com/Azure/sdk-release-request/issues/5519)  | 09-24 | 10-25 |  |
 | 23 | Release for Elastic 2024-03-01  |  |  |  | [#5508](https://github.com/Azure/sdk-release-request/issues/5508)  | 09-16 | 10-24 |  |
 | 24 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
-| 25 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
+| 25 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 |  |
 | 26 | Release for Fabric 2023-11-01  |  |  |  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 10-25 |  |

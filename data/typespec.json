@@ -10,7 +10,8 @@
     "azure-mgmt-healthdataaiservices",
     "azure-mgmt-iotoperations",
     "azure-mgmt-trustedsigning",
-    "azure-mgmt-workloadssapvirtualinstance"
+    "azure-mgmt-workloadssapvirtualinstance",
+    "azure-mgmt-neonpostgres"
   ],
   "js": [],
   "go": [],

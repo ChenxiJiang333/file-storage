@@ -13,12 +13,7 @@
 | 11 | Release for Container Orchestrator Runtime - 2024-03-01  |  | [#5491](https://github.com/Azure/sdk-release-request/issues/5491)  |  | [#5493](https://github.com/Azure/sdk-release-request/issues/5493)  | 09-13 | 10-24 |  |
 | 12 | New Public Preview Version for new DNS Resolver Version with feature DNS Security Policy  |  |  |  | [#5606](https://github.com/Azure/sdk-release-request/issues/5606)  | 10-11 | 10-25 |  |
 | 13 | Release for AIO - 2024-09-15-preview  |  |  |  | [#5576](https://github.com/Azure/sdk-release-request/issues/5576)  | 10-07 | 10-25 |  |
-| 14 | Release for Service Linker 24-07-01-preview  |  |  |  | [#5549](https://github.com/Azure/sdk-release-request/issues/5549)  | 09-29 | 10-11 |  |
-| 15 | Azure Data Boundary Release - 2024-08-01  |  |  |  | [#5534](https://github.com/Azure/sdk-release-request/issues/5534)  | 09-25 | 10-25 |  |
-| 16 | Release for Azure DNS Public Zones - 2023-07-01-preview  |  |  |  | [#5528](https://github.com/Azure/sdk-release-request/issues/5528)  | 09-25 | 10-25 |  |
-| 17 | Release for Container Service - 2024-08-01  |  |  |  | [#5522](https://github.com/Azure/sdk-release-request/issues/5522)  | 09-24 | 10-24 |  |
-| 18 | Release for AKS Fleet 2024-05-02-preview API  |  |  |  | [#5519](https://github.com/Azure/sdk-release-request/issues/5519)  | 09-24 | 10-25 |  |
-| 19 | Release for Elastic 2024-03-01  |  |  |  | [#5508](https://github.com/Azure/sdk-release-request/issues/5508)  | 09-16 | 10-24 |  |
-| 20 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
-| 21 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 |  |
-| 22 | Release for Fabric 2023-11-01  |  |  |  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 10-25 |  |
+| 14 | Azure Data Boundary Release - 2024-08-01  |  |  |  | [#5534](https://github.com/Azure/sdk-release-request/issues/5534)  | 09-25 | 10-25 |  |
+| 15 | Release for Elastic 2024-03-01  |  |  |  | [#5508](https://github.com/Azure/sdk-release-request/issues/5508)  | 09-16 | 10-24 |  |
+| 16 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
+| 17 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 |  |

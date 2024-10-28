@@ -11,5 +11,4 @@
 | 9 | Release for Azure App Configuration - 2024-05-01  |  | [#5629](https://github.com/Azure/sdk-release-request/issues/5629)  | [#5630](https://github.com/Azure/sdk-release-request/issues/5630)  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |
 | 10 | Release for Container Orchestrator Runtime - 2024-03-01  |  | [#5491](https://github.com/Azure/sdk-release-request/issues/5491)  |  |  | 09-13 | 10-24 |  |
 | 11 | Release for container apps - 2024-08-02-preview  |  |  |  | [#5586](https://github.com/Azure/sdk-release-request/issues/5586)  | 10-10 | 10-25 | Hold on by JS/ |
-| 12 | Azure Data Boundary Release - 2024-08-01  |  |  |  | [#5534](https://github.com/Azure/sdk-release-request/issues/5534)  | 09-25 | 10-25 |  |
-| 13 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |
+| 12 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |

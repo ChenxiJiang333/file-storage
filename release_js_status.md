@@ -8,5 +8,4 @@
 | 6 | [#5616](https://github.com/Azure/sdk-release-request/issues/5616) | FireDefend |  | MaryGao | FirstBeta. HoldOn. TypeSpec. | 10-15 | 10-25 |  |
 | 7 | [#5586](https://github.com/Azure/sdk-release-request/issues/5586) | jijohn14 |  | qiaozha | HoldOn. | 10-10 | 10-25 |  |
 | 8 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | qiaozha | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 |  |
-| 9 | [#5534](https://github.com/Azure/sdk-release-request/issues/5534) | shahjoy_microsoftgithub.com |  | qiaozha | new comment. Attention to inconsistent tag. FirstBeta. | 09-25 | 10-25 |  |
-| 10 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha |  | 09-09 | 09-27 |  |
+| 9 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha |  | 09-09 | 09-27 |  |

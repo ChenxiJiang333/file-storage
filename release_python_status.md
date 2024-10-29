@@ -7,7 +7,7 @@
 | 5 | [#5649](https://github.com/Azure/sdk-release-request/issues/5649) | ChenxiJiang333 | azure-mgmt-databox | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
 | 6 | [#5648](https://github.com/Azure/sdk-release-request/issues/5648) | ChenxiJiang333 | azure-mgmt-containerservicefleet | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
 | 7 | [#5647](https://github.com/Azure/sdk-release-request/issues/5647) | ChenxiJiang333 | azure-mgmt-appconfiguration | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
-| 8 | [#5646](https://github.com/Azure/sdk-release-request/issues/5646) | ChenxiJiang333 | azure-mgmt-resourcehealth | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
+| 8 | [#5646](https://github.com/Azure/sdk-release-request/issues/5646) | ChenxiJiang333 | azure-mgmt-resourcehealth | ChenxiJiang333 | new issue. | 10-29 | fail to get. |  |
 | 9 | [#5645](https://github.com/Azure/sdk-release-request/issues/5645) | ChenxiJiang333 | azure-mgmt-redhatopenshift | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
 | 10 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 11 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |

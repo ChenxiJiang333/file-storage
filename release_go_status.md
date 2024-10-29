@@ -7,4 +7,3 @@
 | 5 | [#5619](https://github.com/Azure/sdk-release-request/issues/5619) | elizatargithub7 |  | Mitse1n | new issue. | 10-16 | 11-22 |  |
 | 6 | [#5614](https://github.com/Azure/sdk-release-request/issues/5614) | FireDefend |  | Mitse1n | new issue. new comment. FirstBeta. TypeSpec. | 10-15 | 10-25 |  |
 | 7 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | Mitse1n | new issue. new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 |  |
-| 8 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | new comment. FirstBeta. TypeSpec. | 09-13 | 10-24 |  |

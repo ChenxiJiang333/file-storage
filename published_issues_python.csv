@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourcehealth,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5646,1.0.0b6,
+azure-mgmt-appconfiguration,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5647,4.0.0,True
+azure-mgmt-databox,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5649,3.0.0,True
+azure-mgmt-edgeorder,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5651,2.0.0,True
 azure-mgmt-redhatopenshift,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5645,2.0.0,True
 azure-mgmt-appplatform,ChenxiJiang333,ChenxiJiang333,2024-10-24,2024-10-29,https://github.com/Azure/sdk-release-request/issues/5643,10.0.0,True
 azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2024-10-10,2024-10-28,https://github.com/Azure/sdk-release-request/issues/5587,3.2.0b1,

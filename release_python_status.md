@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. close to release date. new version is 0.0.0, please check base branch! | 10-29 | 11-01 | 1 |
+| 1 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. close to release date. | 10-29 | 11-01 | 1 |
 | 2 | [#5653](https://github.com/Azure/sdk-release-request/issues/5653) | ChenxiJiang333 | azure-mgmt-network | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
 | 3 | [#5652](https://github.com/Azure/sdk-release-request/issues/5652) | ChenxiJiang333 | azure-mgmt-extendedlocation | ChenxiJiang333 |  | 10-29 | fail to get. |  |
 | 4 | [#5651](https://github.com/Azure/sdk-release-request/issues/5651) | ChenxiJiang333 | azure-mgmt-edgeorder | ChenxiJiang333 |  | 10-29 | fail to get. |  |

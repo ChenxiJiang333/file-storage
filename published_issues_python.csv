@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-digitaltwins,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5650,7.0.0,True
+azure-mgmt-extendedlocation,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5652,2.0.0,True
 azure-mgmt-resourcehealth,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5646,1.0.0b6,
 azure-mgmt-appconfiguration,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5647,4.0.0,True
 azure-mgmt-databox,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5649,3.0.0,True

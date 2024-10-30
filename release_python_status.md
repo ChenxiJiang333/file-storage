@@ -1,10 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 10-30 | 11-12 |  |
+| 1 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 10-30 | 11-12 |  |
 | 2 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. close to release date. OnTime. | 10-29 | 11-01 | 1 |
 | 3 | [#5653](https://github.com/Azure/sdk-release-request/issues/5653) | ChenxiJiang333 | azure-mgmt-network | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
-| 4 | [#5652](https://github.com/Azure/sdk-release-request/issues/5652) | ChenxiJiang333 | azure-mgmt-extendedlocation | ChenxiJiang333 |  | 10-29 | fail to get. |  |
-| 5 | [#5650](https://github.com/Azure/sdk-release-request/issues/5650) | ChenxiJiang333 | azure-mgmt-digitaltwins | ChenxiJiang333 |  | 10-29 | fail to get. |  |
 | 6 | [#5648](https://github.com/Azure/sdk-release-request/issues/5648) | ChenxiJiang333 | azure-mgmt-containerservicefleet | ChenxiJiang333 | new issue. MultiAPI | 10-29 | fail to get. |  |
 | 7 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 8 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |

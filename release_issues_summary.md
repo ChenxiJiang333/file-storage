@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | Release for Container Service - 2024-09-01  | [#5659](https://github.com/Azure/sdk-release-request/issues/5659)  | [#5656](https://github.com/Azure/sdk-release-request/issues/5656)  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  | [#5658](https://github.com/Azure/sdk-release-request/issues/5658)  | 10-30 | 11-12 |  |
-| 2 | 'Release for PostgreSQL flexible servers - 2024-11-01-preview'  | [#5655](https://github.com/Azure/sdk-release-request/issues/5655)  |  |  |  | 10-29 | 11-01 |  |
+| 2 | 'Release for PostgreSQL flexible servers - 2024-11-01-preview'  | [#5655](https://github.com/Azure/sdk-release-request/issues/5655)  |  |  |  | 10-29 | 11-01 | Hold on by Python/ |
 | 3 | Reduce package size for Network (only for python)  | [#5653](https://github.com/Azure/sdk-release-request/issues/5653)  |  |  |  | 10-29 | fail to get. |  |
 | 4 | Reduce package size for AKS Fleet (only for python)  | [#5648](https://github.com/Azure/sdk-release-request/issues/5648)  |  |  |  | 10-29 | fail to get. |  |
 | 5 | Release for NeonPostgres for 2024-08-01 API version  | [#5641](https://github.com/Azure/sdk-release-request/issues/5641)  | [#5638](https://github.com/Azure/sdk-release-request/issues/5638)  | [#5639](https://github.com/Azure/sdk-release-request/issues/5639)  | [#5640](https://github.com/Azure/sdk-release-request/issues/5640)  | 10-23 | 11-21 |  |

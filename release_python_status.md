@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 10-30 | 11-12 |  |
-| 2 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. close to release date. HoldOn. OnTime. | 10-29 | 11-01 | 0 |
+| 2 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | close to release date. HoldOn. OnTime. | 10-29 | 11-01 | 0 |
 | 3 | [#5653](https://github.com/Azure/sdk-release-request/issues/5653) | ChenxiJiang333 | azure-mgmt-network | ChenxiJiang333 |  | 10-29 | fail to get. |  |
 | 4 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 5 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |

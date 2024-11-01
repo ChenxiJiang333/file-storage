@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-network,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-11-01,https://github.com/Azure/sdk-release-request/issues/5653,28.0.0,True
 azure-mgmt-containerservicefleet,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-11-01,https://github.com/Azure/sdk-release-request/issues/5648,3.0.0,True
 azure-mgmt-digitaltwins,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5650,7.0.0,True
 azure-mgmt-extendedlocation,ChenxiJiang333,ChenxiJiang333,2024-10-29,2024-10-30,https://github.com/Azure/sdk-release-request/issues/5652,2.0.0,True

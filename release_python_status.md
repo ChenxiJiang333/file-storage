@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 10-30 | 11-12 |  |
-| 2 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. HoldOn. OnTime. | 10-29 | 11-01 |  |
+| 2 | [#5655](https://github.com/Azure/sdk-release-request/issues/5655) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | OnTime. | 10-29 | 11-01 |  |
 | 3 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 4 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |
 | 5 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 |  | 10-22 | 11-22 |  |

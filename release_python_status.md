@@ -6,7 +6,6 @@
 | 4 | [#5671](https://github.com/Azure/sdk-release-request/issues/5671) | ChenxiJiang333 | azure-mgmt-managementgroups | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 5 | [#5670](https://github.com/Azure/sdk-release-request/issues/5670) | ChenxiJiang333 | azure-mgmt-managedservices | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 6 | [#5669](https://github.com/Azure/sdk-release-request/issues/5669) | ChenxiJiang333 | azure-mgmt-loganalytics | ChenxiJiang333 |  | 11-04 | fail to get. |  |
-| 7 | [#5667](https://github.com/Azure/sdk-release-request/issues/5667) | ChenxiJiang333 | azure-mgmt-devtestlabs | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 8 | [#5666](https://github.com/Azure/sdk-release-request/issues/5666) | ChenxiJiang333 | azure-mgmt-automation | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 9 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan |  | ChenxiJiang333 |  | 11-04 |  | 0 |
 | 10 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 10-30 | 11-12 |  |

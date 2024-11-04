@@ -15,5 +15,5 @@
 | 13 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |
 | 14 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 |  | 10-22 | 11-22 |  |
 | 15 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | TypeSpec. | 10-16 | 11-22 |  |
-| 16 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | close to release date. | 10-02 | 11-05 | 0 |
+| 16 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | new comment. close to release date. OnTime. | 10-02 | 11-05 | 0 |
 | 17 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 |  |

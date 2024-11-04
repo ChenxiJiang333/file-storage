@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5674](https://github.com/Azure/sdk-release-request/issues/5674) | ChenxiJiang333 | azure-mgmt-servicebus | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 11-04 | fail to get. |  |
-| 2 | [#5673](https://github.com/Azure/sdk-release-request/issues/5673) | ChenxiJiang333 | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 11-04 | fail to get. |  |
+| 2 | [#5673](https://github.com/Azure/sdk-release-request/issues/5673) | ChenxiJiang333 | azure-mgmt-notificationhubs | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-04 | fail to get. |  |
 | 3 | [#5672](https://github.com/Azure/sdk-release-request/issues/5672) | ChenxiJiang333 | azure-mgmt-marketplaceordering | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 4 | [#5671](https://github.com/Azure/sdk-release-request/issues/5671) | ChenxiJiang333 | azure-mgmt-managementgroups | ChenxiJiang333 | Attention to inconsistent tag. | 11-04 | fail to get. |  |
 | 5 | [#5670](https://github.com/Azure/sdk-release-request/issues/5670) | ChenxiJiang333 | azure-mgmt-managedservices | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 6 | [#5669](https://github.com/Azure/sdk-release-request/issues/5669) | ChenxiJiang333 | azure-mgmt-loganalytics | ChenxiJiang333 | Attention to inconsistent tag. | 11-04 | fail to get. |  |
-| 7 | [#5668](https://github.com/Azure/sdk-release-request/issues/5668) | ChenxiJiang333 | azure-mgmt-hdinsight | ChenxiJiang333 |  | 11-04 | fail to get. |  |
+| 7 | [#5668](https://github.com/Azure/sdk-release-request/issues/5668) | ChenxiJiang333 | azure-mgmt-hdinsight | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-04 | fail to get. |  |
 | 8 | [#5667](https://github.com/Azure/sdk-release-request/issues/5667) | ChenxiJiang333 | azure-mgmt-devtestlabs | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 9 | [#5666](https://github.com/Azure/sdk-release-request/issues/5666) | ChenxiJiang333 | azure-mgmt-automation | ChenxiJiang333 |  | 11-04 | fail to get. |  |
 | 10 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan |  | ChenxiJiang333 |  | 11-04 |  | 0 |

@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-managedservices,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5670,7.0.0b2,
+azure-mgmt-managementgroups,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5671,1.1.0b2,
+azure-mgmt-marketplaceordering,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5672,1.2.0b2,
+azure-mgmt-servicebus,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5674,8.2.1,True
 azure-mgmt-automation,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5666,1.1.0b4,
 azure-mgmt-loganalytics,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5669,13.0.0b7,
 azure-mgmt-sql,azure-sdk,ChenxiJiang333,2024-10-02,2024-11-04,https://github.com/Azure/sdk-release-request/issues/5557,4.0.0b20,

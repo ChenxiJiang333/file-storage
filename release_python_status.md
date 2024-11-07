@@ -10,5 +10,5 @@
 | 8 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 9 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |
 | 10 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 |  | 10-22 | 11-22 |  |
-| 11 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | TypeSpec. | 10-16 | 11-22 |  |
+| 11 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | FirstGA. TypeSpec. | 10-16 | 11-22 |  |
 | 12 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 11-22 |  |

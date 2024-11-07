@@ -2,8 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5696](https://github.com/Azure/sdk-release-request/issues/5696) | Bharam-Msft |  | Mitse1n | new issue. | 11-07 | 11-22 |  |
 | 2 | [#5691](https://github.com/Azure/sdk-release-request/issues/5691) | mbashtovayamicrosoft.com |  | Mitse1n | Attention to inconsistent tag. | 11-06 | 11-22 |  |
-| 3 | [#5686](https://github.com/Azure/sdk-release-request/issues/5686) | alexmahonic |  | Mitse1n | new issue. | 11-05 | 11-22 |  |
-| 4 | [#5681](https://github.com/Azure/sdk-release-request/issues/5681) | chrisribe |  | Mitse1n | new issue. | 11-05 | 11-22 |  |
+| 3 | [#5686](https://github.com/Azure/sdk-release-request/issues/5686) | alexmahonic |  | Mitse1n | new issue. TypeSpec. | 11-05 | 11-22 |  |
+| 4 | [#5681](https://github.com/Azure/sdk-release-request/issues/5681) | chrisribe |  | Mitse1n | new issue. FirstGA. TypeSpec. | 11-05 | 11-22 |  |
 | 5 | [#5661](https://github.com/Azure/sdk-release-request/issues/5661) | gerrytan |  | Mitse1n | new issue. new comment. FirstBeta. | 11-04 | 11-21 |  |
 | 6 | [#5656](https://github.com/Azure/sdk-release-request/issues/5656) | fumingzhang |  | Mitse1n | Attention to inconsistent tag. | 10-30 | 11-21 |  |
 | 7 | [#5638](https://github.com/Azure/sdk-release-request/issues/5638) | almasak |  | Mitse1n | new issue. new comment. FirstBeta. | 10-23 | 11-21 |  |

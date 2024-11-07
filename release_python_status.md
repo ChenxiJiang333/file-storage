@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft | azure-mgmt-connectedcache | ChenxiJiang333 | new issue. | 11-07 | 11-22 |  |
+| 1 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft | azure-mgmt-connectedcache | ChenxiJiang333 |  | 11-07 | 11-22 |  |
 | 2 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 | Attention to inconsistent tag. | 11-06 | 11-22 |  |
 | 3 | [#5689](https://github.com/Azure/sdk-release-request/issues/5689) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | TypeSpec. | 11-05 | 11-22 |  |
 | 4 | [#5684](https://github.com/Azure/sdk-release-request/issues/5684) | chrisribe | azure-mgmt-healthdataaiservices | ChenxiJiang333 | new comment. TypeSpec. | 11-05 | 11-22 |  |

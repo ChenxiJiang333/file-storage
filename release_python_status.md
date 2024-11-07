@@ -3,7 +3,7 @@
 | 1 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft |  | ChenxiJiang333 |  | 11-07 |  | 0 |
 | 2 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 11-06 | 11-22 |  |
 | 3 | [#5689](https://github.com/Azure/sdk-release-request/issues/5689) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | TypeSpec. | 11-05 | 11-22 |  |
-| 4 | [#5684](https://github.com/Azure/sdk-release-request/issues/5684) | chrisribe | azure-mgmt-healthdataaiservices | ChenxiJiang333 | TypeSpec. | 11-05 | 11-22 |  |
+| 4 | [#5684](https://github.com/Azure/sdk-release-request/issues/5684) | chrisribe | azure-mgmt-healthdataaiservices | ChenxiJiang333 | FirstGA. TypeSpec. | 11-05 | 11-22 |  |
 | 5 | [#5675](https://github.com/Azure/sdk-release-request/issues/5675) | xiaoxuqi-msgithub.com | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 |  | 11-04 | 11-21 |  |
 | 6 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan | azure-mgmt-terraform | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-04 | 11-21 |  |
 | 7 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-30 | 11-12 |  |

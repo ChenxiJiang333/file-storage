@@ -7,7 +7,6 @@
 | 5 | [#5684](https://github.com/Azure/sdk-release-request/issues/5684) | chrisribe | azure-mgmt-healthdataaiservices | ChenxiJiang333 | FirstGA. TypeSpec. | 11-05 | 11-22 |  |
 | 6 | [#5675](https://github.com/Azure/sdk-release-request/issues/5675) | xiaoxuqi-msgithub.com | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 |  | 11-04 | 11-21 |  |
 | 7 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan | azure-mgmt-terraform | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-04 | 11-21 |  |
-| 8 | [#5659](https://github.com/Azure/sdk-release-request/issues/5659) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-30 | 11-12 |  |
 | 9 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-23 | 11-21 |  |
 | 10 | [#5636](https://github.com/Azure/sdk-release-request/issues/5636) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 10-23 | 11-22 |  |
 | 11 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 |  | 10-22 | 11-22 |  |

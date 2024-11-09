@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5704](https://github.com/Azure/sdk-release-request/issues/5704) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 11-07 | 11-22 |  |
 | 2 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft |  | ChenxiJiang333 |  | 11-07 |  | 0 |
-| 3 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 11-06 | 11-22 |  |
+| 3 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 | new comment. | 11-06 | 11-22 |  |
 | 4 | [#5689](https://github.com/Azure/sdk-release-request/issues/5689) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | TypeSpec. | 11-05 | 11-22 |  |
 | 5 | [#5684](https://github.com/Azure/sdk-release-request/issues/5684) | chrisribe | azure-mgmt-healthdataaiservices | ChenxiJiang333 | FirstGA. TypeSpec. | 11-05 | 11-22 |  |
 | 6 | [#5675](https://github.com/Azure/sdk-release-request/issues/5675) | xiaoxuqi-msgithub.com | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 |  | 11-04 | 11-21 |  |

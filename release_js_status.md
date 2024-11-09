@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5703](https://github.com/Azure/sdk-release-request/issues/5703) | audunn |  | qiaozha | Attention to inconsistent tag. | 11-07 | 11-22 |  |
 | 2 | [#5698](https://github.com/Azure/sdk-release-request/issues/5698) | Bharam-Msft |  | qiaozha | new issue. | 11-07 | 11-22 |  |
-| 3 | [#5693](https://github.com/Azure/sdk-release-request/issues/5693) | mbashtovayamicrosoft.com |  | qiaozha | Attention to inconsistent tag. | 11-06 | 11-22 |  |
+| 3 | [#5693](https://github.com/Azure/sdk-release-request/issues/5693) | mbashtovayamicrosoft.com |  | qiaozha | new comment. Attention to inconsistent tag. | 11-06 | 11-22 |  |
 | 4 | [#5688](https://github.com/Azure/sdk-release-request/issues/5688) | alexmahonic |  | qiaozha | new issue. | 11-05 | 11-22 |  |
 | 5 | [#5683](https://github.com/Azure/sdk-release-request/issues/5683) | chrisribe |  | qiaozha | new issue. FirstGA. TypeSpec. | 11-05 | 11-22 |  |
 | 6 | [#5663](https://github.com/Azure/sdk-release-request/issues/5663) | gerrytan |  | qiaozha | new issue. new comment. FirstBeta. | 11-04 | 11-21 |  |

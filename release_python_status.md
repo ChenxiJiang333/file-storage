@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 11-11 | 11-22 |  |
+| 1 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new issue. MultiAPI | 11-11 | 11-22 |  |
 | 2 | [#5704](https://github.com/Azure/sdk-release-request/issues/5704) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 11-07 | 11-22 |  |
 | 3 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft |  | ChenxiJiang333 |  | 11-07 |  | 0 |
 | 4 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 11-06 | 11-22 |  |

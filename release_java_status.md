@@ -5,7 +5,7 @@
 | 3 | [#5692](https://github.com/Azure/sdk-release-request/issues/5692) | mbashtovayamicrosoft.com |  | haolingdong-msft | new comment. Attention to inconsistent tag. | 11-06 | 11-22 |  |
 | 4 | [#5687](https://github.com/Azure/sdk-release-request/issues/5687) | alexmahonic |  | haolingdong-msft | new issue. | 11-05 | 11-22 |  |
 | 5 | [#5682](https://github.com/Azure/sdk-release-request/issues/5682) | chrisribe |  | v-hongli1 | new issue. FirstGA. TypeSpec. | 11-05 | 11-22 |  |
-| 6 | [#5662](https://github.com/Azure/sdk-release-request/issues/5662) | gerrytan |  | haolingdong-msft | new issue. new comment. FirstBeta. | 11-04 | 11-21 |  |
+| 6 | [#5662](https://github.com/Azure/sdk-release-request/issues/5662) | gerrytan |  | haolingdong-msft | new issue. new comment. FirstBeta. TypeSpec. | 11-04 | 11-21 |  |
 | 7 | [#5657](https://github.com/Azure/sdk-release-request/issues/5657) | fumingzhang |  | v-hongli1 | Attention to inconsistent tag. | 10-30 | 11-21 |  |
 | 8 | [#5639](https://github.com/Azure/sdk-release-request/issues/5639) | almasak |  | v-hongli1 | new issue. new comment. FirstBeta. | 10-23 | 11-21 |  |
 | 9 | [#5634](https://github.com/Azure/sdk-release-request/issues/5634) | yaotongms |  | haolingdong-msft | new issue. | 10-23 | 11-22 |  |

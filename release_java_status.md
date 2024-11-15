@@ -14,4 +14,4 @@
 | 12 | [#5630](https://github.com/Azure/sdk-release-request/issues/5630) | albertofori |  | haolingdong-msft | new issue. | 10-22 | 11-22 |  |
 | 13 | [#5625](https://github.com/Azure/sdk-release-request/issues/5625) | emmeliaAra |  | XiaofeiCao | Attention to inconsistent tag. | 10-22 | 11-22 |  |
 | 14 | [#5620](https://github.com/Azure/sdk-release-request/issues/5620) | elizatargithub7 |  | XiaofeiCao | new issue. FirstGA. TypeSpec. | 10-16 | 11-22 |  |
-| 15 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. TypeSpec. | 09-27 | 11-22 |  |
+| 15 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | FirstGA. TypeSpec. | 09-27 | 11-22 |  |

@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-hybridcompute,azure-sdk,ChenxiJiang333,2024-10-23,2024-11-15,https://github.com/Azure/sdk-release-request/issues/5636,9.1.0b1,
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-10-30,2024-11-08,https://github.com/Azure/sdk-release-request/issues/5659,33.0.0,True
 azure-mgmt-managedservices,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5670,7.0.0b2,
 azure-mgmt-managementgroups,ChenxiJiang333,ChenxiJiang333,2024-11-04,2024-11-05,https://github.com/Azure/sdk-release-request/issues/5671,1.1.0b2,

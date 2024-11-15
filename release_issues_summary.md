@@ -18,4 +18,3 @@
 | 16 | Release for Container Service - 2024-09-01  |  | [#5656](https://github.com/Azure/sdk-release-request/issues/5656)  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  | [#5658](https://github.com/Azure/sdk-release-request/issues/5658)  | 10-30 | 11-21 |  |
 | 17 | Release for Azure App Configuration - 2024-05-01  |  | [#5629](https://github.com/Azure/sdk-release-request/issues/5629)  | [#5630](https://github.com/Azure/sdk-release-request/issues/5630)  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |
 | 18 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
-| 19 | Release for Hybrid Compute 2024-07-31-preview  |  |  |  | [#5635](https://github.com/Azure/sdk-release-request/issues/5635)  | 10-23 | 11-15 |  |

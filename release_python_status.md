@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | new issue. | 11-15 | 12-26 |  |
+| 1 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |
 | 2 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst |  | ChenxiJiang333 | duplicated issue  <br> | 11-15 |  | 0 |
 | 3 | [#5720](https://github.com/Azure/sdk-release-request/issues/5720) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 11-13 | 11-22 |  |
 | 4 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 11-11 | 12-27 |  |

@@ -1,10 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |
-| 2 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new issue. | 11-15 | 12-27 |  |
+| 2 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 11-15 | 12-27 |  |
 | 3 | [#5720](https://github.com/Azure/sdk-release-request/issues/5720) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 11-13 | 11-22 |  |
 | 4 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 11-11 | 12-27 |  |
-| 5 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-11 | 11-22 |  |
+| 5 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 |  | 11-11 | 11-22 |  |
 | 6 | [#5704](https://github.com/Azure/sdk-release-request/issues/5704) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 11-07 | 11-22 |  |
 | 7 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft |  | ChenxiJiang333 |  | 11-07 |  | 0 |
 | 8 | [#5694](https://github.com/Azure/sdk-release-request/issues/5694) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 11-06 | 11-22 |  |

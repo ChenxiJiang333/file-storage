@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-11-13,2024-11-19,https://github.com/Azure/sdk-release-request/issues/5720,9.7.0,True
 azure-mgmt-mysqlflexibleservers,azure-sdk,ChenxiJiang333,2024-11-04,2024-11-18,https://github.com/Azure/sdk-release-request/issues/5675,1.0.0b3,
 azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2024-11-07,2024-11-18,https://github.com/Azure/sdk-release-request/issues/5704,13.4.0b1,
 azure-mgmt-hybridcompute,azure-sdk,ChenxiJiang333,2024-10-23,2024-11-15,https://github.com/Azure/sdk-release-request/issues/5636,9.1.0b1,

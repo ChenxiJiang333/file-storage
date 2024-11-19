@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5735](https://github.com/Azure/sdk-release-request/issues/5735) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new issue. | 11-18 | 12-27 |  |
 | 2 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |
-| 3 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 12-27 |  |
+| 3 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 12-27 |  |
 | 4 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 11-11 | 12-27 |  |
 | 5 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | close to release date. | 11-11 | 11-22 | 2 |
 | 6 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft | azure-mgmt-connectedcache | ChenxiJiang333 | new comment. close to release date. FirstBeta. TypeSpec. | 11-07 | 11-22 | 2 |

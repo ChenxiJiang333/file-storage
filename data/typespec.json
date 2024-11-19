@@ -13,7 +13,8 @@
     "azure-mgmt-workloadssapvirtualinstance",
     "azure-mgmt-neonpostgres",
     "azure-mgmt-terraform",
-    "azure-mgmt-hybridconnectivity"
+    "azure-mgmt-hybridconnectivity",
+    "azure-mgmt-connectedcache"
   ],
   "js": [],
   "go": [],

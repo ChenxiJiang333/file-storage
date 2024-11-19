@@ -19,4 +19,4 @@
 | 17 | Release for Container Service - 2024-09-01  |  |  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  | [#5658](https://github.com/Azure/sdk-release-request/issues/5658)  | 10-30 | 11-21 |  |
 | 18 | Release for Azure App Configuration - 2024-05-01  |  | [#5629](https://github.com/Azure/sdk-release-request/issues/5629)  | [#5630](https://github.com/Azure/sdk-release-request/issues/5630)  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |
 | 19 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
-| 20 | Release for NetAppFiles - 2024-07-01-preview  |  | [#5701](https://github.com/Azure/sdk-release-request/issues/5701)  |  | [#5703](https://github.com/Azure/sdk-release-request/issues/5703)  | 11-07 | 11-22 |  |
+| 20 | Release for NetAppFiles - 2024-07-01-preview  |  |  |  | [#5703](https://github.com/Azure/sdk-release-request/issues/5703)  | 11-07 | 11-22 |  |

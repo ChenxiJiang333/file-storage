@@ -9,8 +9,6 @@
 | 7 | [#5707](https://github.com/Azure/sdk-release-request/issues/5707) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 11-11 | 12-26 |  |
 | 8 | [#5696](https://github.com/Azure/sdk-release-request/issues/5696) | Bharam-Msft |  | jliusan | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 11-07 | 11-22 | 1 |
 | 9 | [#5686](https://github.com/Azure/sdk-release-request/issues/5686) | alexmahonic |  | Mitse1n | new issue. new comment. close to release date. HoldOn. TypeSpec. | 11-05 | 11-22 | 1 |
-| 10 | [#5681](https://github.com/Azure/sdk-release-request/issues/5681) | chrisribe |  | Mitse1n | new issue. close to release date. FirstGA. TypeSpec. | 11-05 | 11-22 | 1 |
-| 11 | [#5661](https://github.com/Azure/sdk-release-request/issues/5661) | gerrytan |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 11-04 | 11-21 | 0 |
-| 12 | [#5638](https://github.com/Azure/sdk-release-request/issues/5638) | almasak |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 10-23 | 11-21 | 0 |
-| 13 | [#5619](https://github.com/Azure/sdk-release-request/issues/5619) | elizatargithub7 |  | Mitse1n | new issue. close to release date. FirstGA. TypeSpec. | 10-16 | 11-22 | 1 |
-| 14 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | new issue. new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 11-22 | 1 |
+| 10 | [#5661](https://github.com/Azure/sdk-release-request/issues/5661) | gerrytan |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 11-04 | 11-21 | 0 |
+| 11 | [#5638](https://github.com/Azure/sdk-release-request/issues/5638) | almasak |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 10-23 | 11-21 | 0 |
+| 12 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | new issue. new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 11-22 | 1 |

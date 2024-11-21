@@ -10,7 +10,7 @@
 | 8 | [#5692](https://github.com/Azure/sdk-release-request/issues/5692) | mbashtovayamicrosoft.com |  | weidongxu-microsoft | new comment. close to release date. Attention to inconsistent tag. | 11-06 | 11-22 | 0 |
 | 9 | [#5687](https://github.com/Azure/sdk-release-request/issues/5687) | alexmahonic |  | weidongxu-microsoft | new issue. new comment. close to release date. HoldOn. | 11-05 | 11-22 | 0 |
 | 10 | [#5657](https://github.com/Azure/sdk-release-request/issues/5657) | fumingzhang |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 10-30 | 11-21 | 0 |
-| 11 | [#5639](https://github.com/Azure/sdk-release-request/issues/5639) | almasak |  | v-hongli1 | new issue. new comment. close to release date. FirstBeta. HoldOn. | 10-23 | 11-21 | 0 |
+| 11 | [#5639](https://github.com/Azure/sdk-release-request/issues/5639) | almasak |  | v-hongli1 | new issue. new comment. FirstBeta. HoldOn. | 10-23 | 12-03 |  |
 | 12 | [#5625](https://github.com/Azure/sdk-release-request/issues/5625) | emmeliaAra |  | XiaofeiCao | close to release date. Attention to inconsistent tag. | 10-22 | 11-22 | 0 |
 | 13 | [#5620](https://github.com/Azure/sdk-release-request/issues/5620) | elizatargithub7 |  | XiaofeiCao | new issue. close to release date. FirstGA. TypeSpec. | 10-16 | 11-22 | 0 |
 | 14 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | close to release date. FirstGA. TypeSpec. | 09-27 | 11-22 | 0 |

@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-devopsinfrastructure,azure-sdk,ChenxiJiang333,2024-10-16,2024-11-21,https://github.com/Azure/sdk-release-request/issues/5622,1.0.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-11-13,2024-11-19,https://github.com/Azure/sdk-release-request/issues/5720,9.7.0,True
 azure-mgmt-mysqlflexibleservers,azure-sdk,ChenxiJiang333,2024-11-04,2024-11-18,https://github.com/Azure/sdk-release-request/issues/5675,1.0.0b3,
 azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2024-11-07,2024-11-18,https://github.com/Azure/sdk-release-request/issues/5704,13.4.0b1,

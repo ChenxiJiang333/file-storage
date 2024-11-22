@@ -18,4 +18,3 @@
 | 16 | Releas for ConnectedCache 2023-05-01-preview  |  |  |  | [#5698](https://github.com/Azure/sdk-release-request/issues/5698)  | 11-07 | 11-22 |  |
 | 17 | Release for NetworkCloud SDK using 2024-06-01-preview APIs  |  |  |  | [#5693](https://github.com/Azure/sdk-release-request/issues/5693)  | 11-06 | 11-22 |  |
 | 18 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 |  |
-| 19 | Release for Azure App Configuration - 2024-05-01  |  |  |  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |

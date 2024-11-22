@@ -8,6 +8,6 @@
 | 6 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | close to release date. | 11-11 | 11-22 | 0 |
 | 7 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft | azure-mgmt-connectedcache | ChenxiJiang333 | new comment. close to release date. FirstBeta. TypeSpec. | 11-07 | 11-22 | 0 |
 | 8 | [#5689](https://github.com/Azure/sdk-release-request/issues/5689) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | close to release date. HoldOn. TypeSpec. | 11-05 | 11-22 | 0 |
-| 9 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan | azure-mgmt-terraform | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 11-04 | 11-21 | 0 |
+| 9 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan | azure-mgmt-terraform | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 11-04 | 11-21 | -1 |
 | 10 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 10-23 | 12-03 |  |
 | 11 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | new comment. close to release date. | 10-22 | 11-22 | 0 |

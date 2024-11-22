@@ -12,11 +12,10 @@
 | 10 | Release for NeonPostgres for 2024-08-01 API version  | [#5641](https://github.com/Azure/sdk-release-request/issues/5641)  | [#5638](https://github.com/Azure/sdk-release-request/issues/5638)  | [#5639](https://github.com/Azure/sdk-release-request/issues/5639)  | [#5640](https://github.com/Azure/sdk-release-request/issues/5640)  | 10-23 | 12-03 | Hold on by JS/Java/Go/Python/ |
 | 11 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  | [#5625](https://github.com/Azure/sdk-release-request/issues/5625)  | [#5626](https://github.com/Azure/sdk-release-request/issues/5626)  | 10-22 | 11-22 |  |
 | 12 | Cosmos DB 2024-11-15 Stable SDK Release  |  | [#5717](https://github.com/Azure/sdk-release-request/issues/5717)  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  | [#5719](https://github.com/Azure/sdk-release-request/issues/5719)  | 11-13 | 12-27 |  |
-| 13 | Release for Container Service - 2024-09-01  |  |  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  | [#5658](https://github.com/Azure/sdk-release-request/issues/5658)  | 10-30 | 11-21 |  |
+| 13 | Release for Container Service - 2024-09-01  |  |  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  |  | 10-30 | 11-21 |  |
 | 14 | Release for Managed DevOps Pools - 2024-10-19  |  |  | [#5620](https://github.com/Azure/sdk-release-request/issues/5620)  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 |  |
 | 15 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
-| 16 | Release for NetAppFiles - 2024-07-01-preview  |  |  |  | [#5703](https://github.com/Azure/sdk-release-request/issues/5703)  | 11-07 | 11-22 |  |
-| 17 | Releas for ConnectedCache 2023-05-01-preview  |  |  |  | [#5698](https://github.com/Azure/sdk-release-request/issues/5698)  | 11-07 | 11-22 |  |
-| 18 | Release for NetworkCloud SDK using 2024-06-01-preview APIs  |  |  |  | [#5693](https://github.com/Azure/sdk-release-request/issues/5693)  | 11-06 | 11-22 |  |
-| 19 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 |  |
-| 20 | Release for Azure App Configuration - 2024-05-01  |  |  |  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |
+| 16 | Releas for ConnectedCache 2023-05-01-preview  |  |  |  | [#5698](https://github.com/Azure/sdk-release-request/issues/5698)  | 11-07 | 11-22 |  |
+| 17 | Release for NetworkCloud SDK using 2024-06-01-preview APIs  |  |  |  | [#5693](https://github.com/Azure/sdk-release-request/issues/5693)  | 11-06 | 11-22 |  |
+| 18 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 |  |
+| 19 | Release for Azure App Configuration - 2024-05-01  |  |  |  | [#5631](https://github.com/Azure/sdk-release-request/issues/5631)  | 10-22 | 11-22 |  |

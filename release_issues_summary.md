@@ -14,8 +14,8 @@
 | 12 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  | [#5625](https://github.com/Azure/sdk-release-request/issues/5625)  |  | 10-22 | 11-22 |  |
 | 13 | Cosmos DB 2024-11-15 Stable SDK Release  |  | [#5717](https://github.com/Azure/sdk-release-request/issues/5717)  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  | [#5719](https://github.com/Azure/sdk-release-request/issues/5719)  | 11-13 | 12-27 |  |
 | 14 | Release for Container Service - 2024-09-01  |  |  | [#5657](https://github.com/Azure/sdk-release-request/issues/5657)  |  | 10-30 | 11-21 |  |
-| 15 | Release for Managed DevOps Pools - 2024-10-19  |  |  | [#5620](https://github.com/Azure/sdk-release-request/issues/5620)  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 |  |
+| 15 | Release for Managed DevOps Pools - 2024-10-19  |  |  | [#5620](https://github.com/Azure/sdk-release-request/issues/5620)  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 | Hold on by JS/ |
 | 16 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
 | 17 | Releas for ConnectedCache 2023-05-01-preview  |  |  |  | [#5698](https://github.com/Azure/sdk-release-request/issues/5698)  | 11-07 | 11-22 |  |
-| 18 | Release for NetworkCloud SDK using 2024-06-01-preview APIs  |  |  |  | [#5693](https://github.com/Azure/sdk-release-request/issues/5693)  | 11-06 | 11-22 |  |
-| 19 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 |  |
+| 18 | Release for NetworkCloud SDK using 2024-06-01-preview APIs  |  |  |  | [#5693](https://github.com/Azure/sdk-release-request/issues/5693)  | 11-06 | 11-22 | Hold on by JS/ |
+| 19 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 | Hold on by JS/ |

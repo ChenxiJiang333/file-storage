@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5748](https://github.com/Azure/sdk-release-request/issues/5748) | grizzlytheodore |  | Mitse1n | new issue. | 11-25 | 12-27 |  |
+| 1 | [#5748](https://github.com/Azure/sdk-release-request/issues/5748) | grizzlytheodore |  | jliusan | new issue. | 11-25 | 12-27 |  |
 | 2 | [#5738](https://github.com/Azure/sdk-release-request/issues/5738) | guptavertika |  | jliusan | Attention to inconsistent tag. | 11-20 | 12-26 |  |
 | 3 | [#5732](https://github.com/Azure/sdk-release-request/issues/5732) | pjohari-ms |  | jliusan | new issue. | 11-18 | 12-27 |  |
 | 4 | [#5727](https://github.com/Azure/sdk-release-request/issues/5727) | ruowan |  | jliusan | new issue. | 11-15 | 12-26 |  |

@@ -7,8 +7,6 @@
 | 5 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 12-27 |  |
 | 6 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 11-11 | 12-27 |  |
 | 7 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 |  | 11-11 | 11-22 |  |
-| 8 | [#5699](https://github.com/Azure/sdk-release-request/issues/5699) | Bharam-Msft | azure-mgmt-connectedcache | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-07 | 11-22 |  |
 | 9 | [#5689](https://github.com/Azure/sdk-release-request/issues/5689) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 11-05 | 11-22 |  |
-| 10 | [#5664](https://github.com/Azure/sdk-release-request/issues/5664) | gerrytan | azure-mgmt-terraform | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-04 | 11-21 |  |
 | 11 | [#5641](https://github.com/Azure/sdk-release-request/issues/5641) | almasak | azure-mgmt-neonpostgres | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 10-23 | 12-03 |  |
 | 12 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | new comment. | 10-22 | 11-22 |  |

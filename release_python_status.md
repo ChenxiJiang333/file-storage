@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5751](https://github.com/Azure/sdk-release-request/issues/5751) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. | 11-25 | 12-27 |  |
+| 1 | [#5751](https://github.com/Azure/sdk-release-request/issues/5751) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-25 | 12-27 |  |
 | 2 | [#5741](https://github.com/Azure/sdk-release-request/issues/5741) | guptavertika | azure-mgmt-network | ChenxiJiang333 |  | 11-20 | 12-26 |  |
 | 3 | [#5735](https://github.com/Azure/sdk-release-request/issues/5735) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new issue. | 11-18 | 12-27 |  |
 | 4 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |

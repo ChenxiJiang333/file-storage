@@ -13,7 +13,6 @@
 | 11 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Go/Python/ |
 | 12 | Cosmos DB 2024-11-15 Stable SDK Release  |  | [#5717](https://github.com/Azure/sdk-release-request/issues/5717)  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  | [#5719](https://github.com/Azure/sdk-release-request/issues/5719)  | 11-13 | 12-27 |  |
 | 13 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
-| 14 | Releas for ConnectedCache 2023-05-01-preview  |  |  |  | [#5698](https://github.com/Azure/sdk-release-request/issues/5698)  | 11-07 | 11-22 |  |
-| 15 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 | Hold on by JS/ |
-| 16 | Release for Azure Terraform - 2023-07-01-preview  |  |  |  | [#5663](https://github.com/Azure/sdk-release-request/issues/5663)  | 11-04 | 11-21 |  |
-| 17 | Release for Managed DevOps Pools - 2024-10-19  |  |  |  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 | Hold on by JS/ |
+| 14 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 | Hold on by JS/ |
+| 15 | Release for Azure Terraform - 2023-07-01-preview  |  |  |  | [#5663](https://github.com/Azure/sdk-release-request/issues/5663)  | 11-04 | 11-21 |  |
+| 16 | Release for Managed DevOps Pools - 2024-10-19  |  |  |  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 | Hold on by JS/ |

@@ -15,4 +15,3 @@
 | 13 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
 | 14 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 | Hold on by JS/ |
 | 15 | Release for Azure Terraform - 2023-07-01-preview  |  |  |  | [#5663](https://github.com/Azure/sdk-release-request/issues/5663)  | 11-04 | 11-21 |  |
-| 16 | Release for Managed DevOps Pools - 2024-10-19  |  |  |  | [#5621](https://github.com/Azure/sdk-release-request/issues/5621)  | 10-16 | 11-22 | Hold on by JS/ |

@@ -16,4 +16,3 @@
 | 14 | Cosmos DB 2024-11-15 Stable SDK Release  |  | [#5717](https://github.com/Azure/sdk-release-request/issues/5717)  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  | [#5719](https://github.com/Azure/sdk-release-request/issues/5719)  | 11-13 | 12-27 |  |
 | 15 | Release for Container Service - 2024-09-02-preview  |  | [#5707](https://github.com/Azure/sdk-release-request/issues/5707)  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |
 | 16 | Azure Health Deidentification Stable API  |  |  |  | [#5683](https://github.com/Azure/sdk-release-request/issues/5683)  | 11-05 | 11-22 | Hold on by JS/ |
-| 17 | Release for Azure Terraform - 2023-07-01-preview  |  |  |  | [#5663](https://github.com/Azure/sdk-release-request/issues/5663)  | 11-04 | 11-21 |  |

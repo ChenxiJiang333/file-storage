@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 12-02 | 12-27 |  |
+| 1 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | new issue. TypeSpec. | 12-02 | 12-27 |  |
 | 2 | [#5756](https://github.com/Azure/sdk-release-request/issues/5756) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 12-02 | 12-27 |  |
 | 3 | [#5751](https://github.com/Azure/sdk-release-request/issues/5751) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-25 | 12-27 |  |
 | 4 | [#5741](https://github.com/Azure/sdk-release-request/issues/5741) | guptavertika | azure-mgmt-network | ChenxiJiang333 |  | 11-20 | 12-26 |  |

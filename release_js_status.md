@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5760](https://github.com/Azure/sdk-release-request/issues/5760) | davidemontanari |  | qiaozha | Attention to inconsistent tag. | 12-02 | 12-27 |  |
+| 1 | [#5760](https://github.com/Azure/sdk-release-request/issues/5760) | davidemontanari |  | qiaozha | Attention to inconsistent tag. TypeSpec. | 12-02 | 12-27 |  |
 | 2 | [#5755](https://github.com/Azure/sdk-release-request/issues/5755) | mwesigwaguma |  | qiaozha | new issue. | 12-02 | 12-27 |  |
 | 3 | [#5750](https://github.com/Azure/sdk-release-request/issues/5750) | grizzlytheodore |  | MaryGao | new issue. new comment. | 11-25 | 12-27 |  |
 | 4 | [#5740](https://github.com/Azure/sdk-release-request/issues/5740) | guptavertika |  | qiaozha | Attention to inconsistent tag. | 11-20 | 12-26 |  |

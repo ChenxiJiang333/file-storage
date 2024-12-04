@@ -6,7 +6,7 @@
 | 4 | [#5739](https://github.com/Azure/sdk-release-request/issues/5739) | guptavertika |  | v-hongli1 | Attention to inconsistent tag. | 11-20 | 12-26 |  |
 | 5 | [#5733](https://github.com/Azure/sdk-release-request/issues/5733) | pjohari-ms |  | v-hongli1 | new issue. | 11-18 | 12-27 |  |
 | 6 | [#5728](https://github.com/Azure/sdk-release-request/issues/5728) | ruowan |  | XiaofeiCao | new issue. | 11-15 | 12-26 |  |
-| 7 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new issue. new comment. | 11-15 | 12-27 |  |
+| 7 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft |  | 11-15 | 12-27 |  |
 | 8 | [#5718](https://github.com/Azure/sdk-release-request/issues/5718) | pjohari-ms |  | v-hongli1 | Attention to inconsistent tag. | 11-13 | 12-27 |  |
 | 9 | [#5714](https://github.com/Azure/sdk-release-request/issues/5714) | yangyuan |  | XiaofeiCao | new issue. | 11-11 | 12-27 |  |
 | 10 | [#5687](https://github.com/Azure/sdk-release-request/issues/5687) | alexmahonic |  | weidongxu-microsoft | new issue. new comment. HoldOn. | 11-05 | 11-22 |  |

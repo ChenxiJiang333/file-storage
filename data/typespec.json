@@ -14,7 +14,8 @@
     "azure-mgmt-neonpostgres",
     "azure-mgmt-terraform",
     "azure-mgmt-hybridconnectivity",
-    "azure-mgmt-connectedcache"
+    "azure-mgmt-connectedcache",
+    "azure-mgmt-deviceregistry"
   ],
   "js": [],
   "go": [],

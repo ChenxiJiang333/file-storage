@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | 'Update to Release of PostgreSQL flexible servers - 2024-11-01-preview'  | [#5763](https://github.com/Azure/sdk-release-request/issues/5763)  |  |  |  | 12-04 | 01-06 |  |
+| 1 | 'Update to Release of PostgreSQL flexible servers - 2024-11-01-preview'  | [#5763](https://github.com/Azure/sdk-release-request/issues/5763)  |  |  |  | 12-04 | 12-20 |  |
 | 2 | Release for Microsoft.DeviceRegistry - 2024-09-01-preview  | [#5761](https://github.com/Azure/sdk-release-request/issues/5761)  | [#5758](https://github.com/Azure/sdk-release-request/issues/5758)  | [#5759](https://github.com/Azure/sdk-release-request/issues/5759)  | [#5760](https://github.com/Azure/sdk-release-request/issues/5760)  | 12-02 | 12-27 |  |
 | 3 | ServiceFabric - 2024-04  | [#5756](https://github.com/Azure/sdk-release-request/issues/5756)  | [#5753](https://github.com/Azure/sdk-release-request/issues/5753)  | [#5754](https://github.com/Azure/sdk-release-request/issues/5754)  | [#5755](https://github.com/Azure/sdk-release-request/issues/5755)  | 12-02 | 12-27 |  |
 | 4 | Release for Compute GalleryRP 2024-03-03  | [#5751](https://github.com/Azure/sdk-release-request/issues/5751)  | [#5748](https://github.com/Azure/sdk-release-request/issues/5748)  | [#5749](https://github.com/Azure/sdk-release-request/issues/5749)  | [#5750](https://github.com/Azure/sdk-release-request/issues/5750)  | 11-25 | 12-27 |  |

@@ -10,5 +10,4 @@
 | 8 | [#5717](https://github.com/Azure/sdk-release-request/issues/5717) | pjohari-ms |  | jliusan | Attention to inconsistent tag. | 11-13 | 12-27 |  |
 | 9 | [#5713](https://github.com/Azure/sdk-release-request/issues/5713) | yangyuan |  | jliusan |  | 11-11 | 12-27 |  |
 | 10 | [#5707](https://github.com/Azure/sdk-release-request/issues/5707) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 11-11 | 12-26 |  |
-| 11 | [#5686](https://github.com/Azure/sdk-release-request/issues/5686) | alexmahonic |  | jliusan | new issue. new comment. HoldOn. TypeSpec. | 11-05 | 11-22 |  |
-| 12 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 |  |
+| 11 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 |  |

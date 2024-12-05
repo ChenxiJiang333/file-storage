@@ -9,5 +9,4 @@
 | 7 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft |  | 11-15 | 12-27 |  |
 | 8 | [#5718](https://github.com/Azure/sdk-release-request/issues/5718) | pjohari-ms |  | v-hongli1 | Attention to inconsistent tag. | 11-13 | 12-27 |  |
 | 9 | [#5714](https://github.com/Azure/sdk-release-request/issues/5714) | yangyuan |  | XiaofeiCao | new issue. | 11-11 | 12-27 |  |
-| 10 | [#5687](https://github.com/Azure/sdk-release-request/issues/5687) | alexmahonic |  | weidongxu-microsoft | new issue. new comment. HoldOn. | 11-05 | 11-22 |  |
-| 11 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. TypeSpec. | 09-27 | 01-24 |  |
+| 10 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. TypeSpec. | 09-27 | 01-24 |  |

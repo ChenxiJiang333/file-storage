@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5767](https://github.com/Azure/sdk-release-request/issues/5767) | manivelurajendran | azure-mgmt-playwrighttesting | ChenxiJiang333 | new issue. | 12-05 | 12-26 |  |
+| 1 | [#5767](https://github.com/Azure/sdk-release-request/issues/5767) | manivelurajendran | azure-mgmt-playwrighttesting | ChenxiJiang333 |  | 12-05 | 12-26 |  |
 | 2 | [#5763](https://github.com/Azure/sdk-release-request/issues/5763) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 12-04 | 12-20 |  |
 | 3 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 12-02 | 12-27 |  |
 | 4 | [#5756](https://github.com/Azure/sdk-release-request/issues/5756) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 12-02 | 12-27 |  |

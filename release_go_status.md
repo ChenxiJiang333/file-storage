@@ -6,7 +6,7 @@
 | 4 | [#5748](https://github.com/Azure/sdk-release-request/issues/5748) | grizzlytheodore |  | jliusan |  | 11-25 | 12-27 |  |
 | 5 | [#5738](https://github.com/Azure/sdk-release-request/issues/5738) | guptavertika |  | jliusan | Attention to inconsistent tag. | 11-20 | 12-26 |  |
 | 6 | [#5732](https://github.com/Azure/sdk-release-request/issues/5732) | pjohari-ms |  | jliusan |  | 11-18 | 12-27 |  |
-| 7 | [#5727](https://github.com/Azure/sdk-release-request/issues/5727) | ruowan |  | jliusan | new issue. | 11-15 | 12-26 |  |
+| 7 | [#5727](https://github.com/Azure/sdk-release-request/issues/5727) | ruowan |  | jliusan |  | 11-15 | 12-26 |  |
 | 8 | [#5722](https://github.com/Azure/sdk-release-request/issues/5722) | berndverst |  | jliusan | new issue. new comment. FirstBeta. TypeSpec. | 11-15 | 12-27 |  |
 | 9 | [#5717](https://github.com/Azure/sdk-release-request/issues/5717) | pjohari-ms |  | jliusan | Attention to inconsistent tag. | 11-13 | 12-27 |  |
 | 10 | [#5713](https://github.com/Azure/sdk-release-request/issues/5713) | yangyuan |  | jliusan |  | 11-11 | 12-27 |  |

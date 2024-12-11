@@ -5,7 +5,7 @@
 | 3 | [#5763](https://github.com/Azure/sdk-release-request/issues/5763) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 12-04 | 12-20 |  |
 | 4 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 12-02 | 12-27 |  |
 | 5 | [#5756](https://github.com/Azure/sdk-release-request/issues/5756) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 12-02 | 12-27 |  |
-| 6 | [#5751](https://github.com/Azure/sdk-release-request/issues/5751) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-25 | 12-27 |  |
+| 6 | [#5751](https://github.com/Azure/sdk-release-request/issues/5751) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 11-25 | 12-27 |  |
 | 7 | [#5741](https://github.com/Azure/sdk-release-request/issues/5741) | guptavertika | azure-mgmt-network | ChenxiJiang333 |  | 11-20 | 12-26 |  |
 | 8 | [#5735](https://github.com/Azure/sdk-release-request/issues/5735) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 11-18 | 12-27 |  |
 | 9 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |

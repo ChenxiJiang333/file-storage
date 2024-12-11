@@ -11,7 +11,7 @@
 | 9 | [#5735](https://github.com/Azure/sdk-release-request/issues/5735) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 11-18 | 12-27 |  |
 | 10 | [#5730](https://github.com/Azure/sdk-release-request/issues/5730) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-15 | 12-26 |  |
 | 11 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 02-17 |  |
-| 12 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 11-11 | 12-27 |  |
+| 12 | [#5716](https://github.com/Azure/sdk-release-request/issues/5716) | yangyuan | azure-mgmt-cognitiveservices | ChenxiJiang333 | HoldOn. | 11-11 | 12-27 |  |
 | 13 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new comment. | 11-11 | 12-27 |  |
 | 14 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 |  | 10-22 | 12-27 |  |
 | 15 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-25 |  |

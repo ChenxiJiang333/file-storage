@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5775](https://github.com/Azure/sdk-release-request/issues/5775) | aggarwalsw |  | weidongxu-microsoft | new issue. | 12-11 | 12-26 |  |
+| 1 | [#5775](https://github.com/Azure/sdk-release-request/issues/5775) | aggarwalsw |  | weidongxu-microsoft | new issue. | 12-11 | 01-24 |  |
 | 2 | [#5770](https://github.com/Azure/sdk-release-request/issues/5770) | savaradh |  | weidongxu-microsoft | new issue. | 12-09 | 12-27 |  |
 | 3 | [#5765](https://github.com/Azure/sdk-release-request/issues/5765) | manivelurajendran |  | weidongxu-microsoft | new issue. FirstGA. TypeSpec. | 12-05 | 12-26 |  |
 | 4 | [#5759](https://github.com/Azure/sdk-release-request/issues/5759) | davidemontanari |  | v-hongli1 | Attention to inconsistent tag. | 12-02 | 12-27 |  |

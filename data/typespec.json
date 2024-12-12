@@ -15,7 +15,8 @@
     "azure-mgmt-terraform",
     "azure-mgmt-hybridconnectivity",
     "azure-mgmt-connectedcache",
-    "azure-mgmt-deviceregistry"
+    "azure-mgmt-deviceregistry",
+    "azure-mgmt-pineconevectordb"
   ],
   "js": [],
   "go": [],

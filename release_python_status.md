@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5782](https://github.com/Azure/sdk-release-request/issues/5782) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | new issue. FirstGA. TypeSpec. | 12-11 | 12-27 |  |
+| 1 | [#5782](https://github.com/Azure/sdk-release-request/issues/5782) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | FirstGA. TypeSpec. new version is 0.0.0, please check base branch! | 12-11 | 12-27 |  |
 | 2 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
 | 3 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 |  | 12-09 | 12-27 |  |
 | 4 | [#5767](https://github.com/Azure/sdk-release-request/issues/5767) | manivelurajendran | azure-mgmt-playwrighttesting | ChenxiJiang333 | FirstGA. | 12-05 | 12-26 |  |

@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5779](https://github.com/Azure/sdk-release-request/issues/5779) | hmmorales |  |  | new issue. | 12-11 | 12-27 |  |
+| 1 | [#5779](https://github.com/Azure/sdk-release-request/issues/5779) | hmmorales |  |  | new issue. TypeSpec. | 12-11 | 12-27 |  |
 | 2 | [#5774](https://github.com/Azure/sdk-release-request/issues/5774) | aggarwalsw |  |  | new issue. | 12-11 | 01-24 |  |
 | 3 | [#5769](https://github.com/Azure/sdk-release-request/issues/5769) | savaradh |  |  |  | 12-09 | 12-27 |  |
 | 4 | [#5764](https://github.com/Azure/sdk-release-request/issues/5764) | manivelurajendran |  |  | FirstGA. | 12-05 | 12-26 |  |

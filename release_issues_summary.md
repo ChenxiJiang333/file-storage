@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for IoTOperations - 2024-11-01  | [#5782](https://github.com/Azure/sdk-release-request/issues/5782)  |  | [#5780](https://github.com/Azure/sdk-release-request/issues/5780)  | [#5781](https://github.com/Azure/sdk-release-request/issues/5781)  | 12-11 | 12-27 |  |
+| 1 | Release for IoTOperations - 2024-11-01  | [#5782](https://github.com/Azure/sdk-release-request/issues/5782)  |  |  | [#5781](https://github.com/Azure/sdk-release-request/issues/5781)  | 12-11 | 12-27 |  |
 | 2 | Release for PineconeVectorDB - 2025-01-31  | [#5777](https://github.com/Azure/sdk-release-request/issues/5777)  | [#5774](https://github.com/Azure/sdk-release-request/issues/5774)  | [#5775](https://github.com/Azure/sdk-release-request/issues/5775)  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 01-24 |  |
 | 3 | Release for azure container registry - 2024-11-preview  | [#5772](https://github.com/Azure/sdk-release-request/issues/5772)  | [#5769](https://github.com/Azure/sdk-release-request/issues/5769)  |  | [#5771](https://github.com/Azure/sdk-release-request/issues/5771)  | 12-09 | 12-27 | Hold on by JS/Python/ |
 | 4 | GA for MPT 2025-01-01  | [#5767](https://github.com/Azure/sdk-release-request/issues/5767)  |  |  | [#5766](https://github.com/Azure/sdk-release-request/issues/5766)  | 12-05 | 12-26 |  |

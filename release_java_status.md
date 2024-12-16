@@ -3,7 +3,7 @@
 | 1 | [#5780](https://github.com/Azure/sdk-release-request/issues/5780) | hmmorales |  | v-hongli1 | new issue. | 12-11 | 12-27 |  |
 | 2 | [#5775](https://github.com/Azure/sdk-release-request/issues/5775) | aggarwalsw |  | weidongxu-microsoft |  | 12-11 | 01-24 |  |
 | 3 | [#5759](https://github.com/Azure/sdk-release-request/issues/5759) | davidemontanari |  | v-hongli1 | Attention to inconsistent tag. | 12-02 | 12-27 |  |
-| 4 | [#5754](https://github.com/Azure/sdk-release-request/issues/5754) | mwesigwaguma |  | XiaofeiCao | new issue. | 12-02 | 12-27 |  |
+| 4 | [#5754](https://github.com/Azure/sdk-release-request/issues/5754) | mwesigwaguma |  | XiaofeiCao |  | 12-02 | 12-27 |  |
 | 5 | [#5749](https://github.com/Azure/sdk-release-request/issues/5749) | grizzlytheodore |  | v-hongli1 | new issue. new comment. | 11-25 | 12-27 |  |
 | 6 | [#5739](https://github.com/Azure/sdk-release-request/issues/5739) | guptavertika |  | v-hongli1 | Attention to inconsistent tag. | 11-20 | 12-26 |  |
 | 7 | [#5728](https://github.com/Azure/sdk-release-request/issues/5728) | ruowan |  | XiaofeiCao | new issue. FirstGA. | 11-15 | 12-26 |  |

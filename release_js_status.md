@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5786](https://github.com/Azure/sdk-release-request/issues/5786) | aandukuria |  | qiaozha | new issue. | 12-16 | 01-23 |  |
-| 2 | [#5781](https://github.com/Azure/sdk-release-request/issues/5781) | hmmorales |  | MaryGao | FirstGA. TypeSpec. | 12-11 | 12-27 |  |
+| 2 | [#5781](https://github.com/Azure/sdk-release-request/issues/5781) | hmmorales |  | MaryGao | new comment. FirstGA. TypeSpec. | 12-11 | 12-27 |  |
 | 3 | [#5776](https://github.com/Azure/sdk-release-request/issues/5776) | aggarwalsw |  | MaryGao | new issue. | 12-11 | 01-24 |  |
 | 4 | [#5771](https://github.com/Azure/sdk-release-request/issues/5771) | savaradh |  | MaryGao | new comment. HoldOn. | 12-09 | 12-27 |  |
 | 5 | [#5766](https://github.com/Azure/sdk-release-request/issues/5766) | manivelurajendran |  | qiaozha | FirstGA. TypeSpec. | 12-05 | 12-26 |  |

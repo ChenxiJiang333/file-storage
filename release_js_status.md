@@ -7,7 +7,7 @@
 | 5 | [#5766](https://github.com/Azure/sdk-release-request/issues/5766) | manivelurajendran |  | qiaozha | FirstGA. TypeSpec. | 12-05 | 12-26 |  |
 | 6 | [#5760](https://github.com/Azure/sdk-release-request/issues/5760) | davidemontanari |  | qiaozha | Attention to inconsistent tag. TypeSpec. | 12-02 | 12-27 |  |
 | 7 | [#5755](https://github.com/Azure/sdk-release-request/issues/5755) | mwesigwaguma |  | qiaozha |  | 12-02 | 12-27 |  |
-| 8 | [#5750](https://github.com/Azure/sdk-release-request/issues/5750) | grizzlytheodore |  | MaryGao |  | 11-25 | 12-27 |  |
+| 8 | [#5750](https://github.com/Azure/sdk-release-request/issues/5750) | grizzlytheodore |  | MaryGao | new comment. | 11-25 | 12-27 |  |
 | 9 | [#5740](https://github.com/Azure/sdk-release-request/issues/5740) | guptavertika |  | qiaozha | Attention to inconsistent tag. | 11-20 | 12-26 |  |
 | 10 | [#5734](https://github.com/Azure/sdk-release-request/issues/5734) | pjohari-ms |  | qiaozha | HoldOn. | 11-18 | 12-27 |  |
 | 11 | [#5729](https://github.com/Azure/sdk-release-request/issues/5729) | ruowan |  | MaryGao |  | 11-15 | 12-26 |  |

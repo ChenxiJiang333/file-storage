@@ -14,7 +14,7 @@
 | 12 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  |  |  | 10-22 | 12-27 |  |
 | 13 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Go/Python/ |
 | 14 | Release for Compute GalleryRP 2024-03-03  |  |  | [#5749](https://github.com/Azure/sdk-release-request/issues/5749)  | [#5750](https://github.com/Azure/sdk-release-request/issues/5750)  | 11-25 | 12-27 |  |
-| 15 | Cosmos DB 2024-11-15 Stable SDK Release  |  |  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  | [#5719](https://github.com/Azure/sdk-release-request/issues/5719)  | 11-13 | 12-27 |  |
+| 15 | Cosmos DB 2024-11-15 Stable SDK Release  |  |  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  |  | 11-13 | 12-27 |  |
 | 16 | ServiceFabric - 2024-04  |  |  |  | [#5755](https://github.com/Azure/sdk-release-request/issues/5755)  | 12-02 | 12-27 |  |
 | 17 | Release for Azure Data Factory 2018-06  |  |  |  | [#5729](https://github.com/Azure/sdk-release-request/issues/5729)  | 11-15 | 12-26 |  |
 | 18 | Release for Container Service - 2024-09-02-preview  |  |  |  | [#5706](https://github.com/Azure/sdk-release-request/issues/5706)  | 11-11 | 12-26 |  |

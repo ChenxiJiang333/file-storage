@@ -12,8 +12,7 @@
 | 10 | [#5734](https://github.com/Azure/sdk-release-request/issues/5734) | pjohari-ms |  | qiaozha | HoldOn. | 11-18 | 12-27 |  |
 | 11 | [#5729](https://github.com/Azure/sdk-release-request/issues/5729) | ruowan |  | MaryGao |  | 11-15 | 12-26 |  |
 | 12 | [#5724](https://github.com/Azure/sdk-release-request/issues/5724) | berndverst |  | MaryGao | new comment. FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
-| 13 | [#5719](https://github.com/Azure/sdk-release-request/issues/5719) | pjohari-ms |  | MaryGao | new comment. Attention to inconsistent tag. | 11-13 | 12-27 |  |
-| 14 | [#5715](https://github.com/Azure/sdk-release-request/issues/5715) | yangyuan |  | MaryGao | HoldOn. | 11-11 | 12-27 |  |
-| 15 | [#5710](https://github.com/Azure/sdk-release-request/issues/5710) | nineela |  | MaryGao | new comment. Attention to inconsistent tag. HoldOn. | 11-11 | 12-27 |  |
-| 16 | [#5706](https://github.com/Azure/sdk-release-request/issues/5706) | fumingzhang |  | MaryGao | Attention to inconsistent tag. | 11-11 | 12-26 |  |
-| 17 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | qiaozha | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 |  |
+| 13 | [#5715](https://github.com/Azure/sdk-release-request/issues/5715) | yangyuan |  | MaryGao | HoldOn. | 11-11 | 12-27 |  |
+| 14 | [#5710](https://github.com/Azure/sdk-release-request/issues/5710) | nineela |  | MaryGao | new comment. Attention to inconsistent tag. HoldOn. | 11-11 | 12-27 |  |
+| 15 | [#5706](https://github.com/Azure/sdk-release-request/issues/5706) | fumingzhang |  | MaryGao | Attention to inconsistent tag. | 11-11 | 12-26 |  |
+| 16 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | qiaozha | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 |  |

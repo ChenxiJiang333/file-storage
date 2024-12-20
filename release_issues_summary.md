@@ -12,4 +12,3 @@
 | 10 | Release for Compute GalleryRP 2024-03-03  |  |  | [#5749](https://github.com/Azure/sdk-release-request/issues/5749)  |  | 11-25 | 12-27 |  |
 | 11 | Microsoft.Network 2024-05-01  |  |  | [#5739](https://github.com/Azure/sdk-release-request/issues/5739)  |  | 11-20 | 12-26 |  |
 | 12 | Cosmos DB 2024-11-15 Stable SDK Release  |  |  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  |  | 11-13 | 12-27 |  |
-| 13 | Release for Cognitive Services 2024-10-01  |  |  |  | [#5715](https://github.com/Azure/sdk-release-request/issues/5715)  | 11-11 | 12-27 | Hold on by JS/ |

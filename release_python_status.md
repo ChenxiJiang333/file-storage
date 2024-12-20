@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |
+| 1 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 | new comment. | 12-16 | 01-23 |  |
 | 2 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
 | 3 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 12-27 |  |
 | 4 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 12-02 | 12-27 |  |

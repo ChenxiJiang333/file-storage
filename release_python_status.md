@@ -3,7 +3,6 @@
 | 1 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |
 | 2 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
 | 3 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 12-27 |  |
-| 4 | [#5767](https://github.com/Azure/sdk-release-request/issues/5767) | manivelurajendran | azure-mgmt-playwrighttesting | ChenxiJiang333 | new comment. FirstGA. TypeSpec. | 12-05 | 12-26 |  |
 | 5 | [#5761](https://github.com/Azure/sdk-release-request/issues/5761) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 12-02 | 12-27 |  |
 | 6 | [#5741](https://github.com/Azure/sdk-release-request/issues/5741) | guptavertika | azure-mgmt-network | ChenxiJiang333 |  | 11-20 | 12-26 |  |
 | 7 | [#5735](https://github.com/Azure/sdk-release-request/issues/5735) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 11-18 | 12-27 |  |

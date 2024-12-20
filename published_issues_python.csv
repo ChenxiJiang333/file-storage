@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-playwrighttesting,azure-sdk,ChenxiJiang333,2024-12-05,2024-12-20,https://github.com/Azure/sdk-release-request/issues/5767,1.0.0,True
 azure-mgmt-cognitiveservices,azure-sdk,ChenxiJiang333,2024-11-11,2024-12-19,https://github.com/Azure/sdk-release-request/issues/5716,13.6.0,True
 azure-mgmt-iotoperations,azure-sdk,ChenxiJiang333,2024-12-11,2024-12-19,https://github.com/Azure/sdk-release-request/issues/5782,1.0.0,True
 azure-mgmt-servicefabricmanagedclusters,azure-sdk,ChenxiJiang333,2024-12-02,2024-12-18,https://github.com/Azure/sdk-release-request/issues/5756,2.1.0b2,

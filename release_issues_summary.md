@@ -15,5 +15,4 @@
 | 13 | Release for IoTOperations - 2024-11-01  |  |  |  | [#5781](https://github.com/Azure/sdk-release-request/issues/5781)  | 12-11 | 12-27 |  |
 | 14 | GA for MPT 2025-01-01  |  |  |  | [#5766](https://github.com/Azure/sdk-release-request/issues/5766)  | 12-05 | 12-26 |  |
 | 15 | ServiceFabric - 2024-04  |  |  |  | [#5755](https://github.com/Azure/sdk-release-request/issues/5755)  | 12-02 | 12-27 |  |
-| 16 | Release for Azure Data Factory 2018-06  |  |  |  | [#5729](https://github.com/Azure/sdk-release-request/issues/5729)  | 11-15 | 12-26 |  |
-| 17 | Release for Cognitive Services 2024-10-01  |  |  |  | [#5715](https://github.com/Azure/sdk-release-request/issues/5715)  | 11-11 | 12-27 | Hold on by JS/ |
+| 16 | Release for Cognitive Services 2024-10-01  |  |  |  | [#5715](https://github.com/Azure/sdk-release-request/issues/5715)  | 11-11 | 12-27 | Hold on by JS/ |

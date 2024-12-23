@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-deviceregistry,azure-sdk,ChenxiJiang333,2024-12-02,2024-12-23,https://github.com/Azure/sdk-release-request/issues/5761,1.0.0b2,
 azure-mgmt-network,azure-sdk,ChenxiJiang333,2024-11-20,2024-12-20,https://github.com/Azure/sdk-release-request/issues/5741,28.1.0,True
 azure-mgmt-playwrighttesting,azure-sdk,ChenxiJiang333,2024-12-05,2024-12-20,https://github.com/Azure/sdk-release-request/issues/5767,1.0.0,True
 azure-mgmt-cognitiveservices,azure-sdk,ChenxiJiang333,2024-11-11,2024-12-19,https://github.com/Azure/sdk-release-request/issues/5716,13.6.0,True

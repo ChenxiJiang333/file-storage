@@ -8,7 +8,4 @@
 | 6 | App Services (DNL GA)  | [#5711](https://github.com/Azure/sdk-release-request/issues/5711)  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 12-27 | Hold on by JS/Python/ |
 | 7 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  |  |  | 10-22 | 12-27 | Hold on by Python/ |
 | 8 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Go/Python/ |
-| 9 | Release for Compute GalleryRP 2024-03-03  |  |  | [#5749](https://github.com/Azure/sdk-release-request/issues/5749)  |  | 11-25 | 12-27 |  |
-| 10 | Microsoft.Network 2024-05-01  |  |  | [#5739](https://github.com/Azure/sdk-release-request/issues/5739)  |  | 11-20 | 12-26 |  |
-| 11 | Cosmos DB 2024-11-15 Stable SDK Release  |  |  | [#5718](https://github.com/Azure/sdk-release-request/issues/5718)  |  | 11-13 | 12-27 |  |
-| 12 | Release for Microsoft.DeviceRegistry - 2024-09-01-preview  |  |  |  | [#5760](https://github.com/Azure/sdk-release-request/issues/5760)  | 12-02 | 12-27 |  |
+| 9 | Release for Microsoft.DeviceRegistry - 2024-09-01-preview  |  |  |  | [#5760](https://github.com/Azure/sdk-release-request/issues/5760)  | 12-02 | 12-27 |  |

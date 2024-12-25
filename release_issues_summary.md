@@ -7,4 +7,3 @@
 | 5 | App Services (DNL GA)  | [#5711](https://github.com/Azure/sdk-release-request/issues/5711)  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 12-27 | Hold on by JS/Python/ |
 | 6 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  |  |  | 10-22 | 12-27 | Hold on by Python/ |
 | 7 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Go/Python/ |
-| 8 | Cosmos DB 2024-12-01 Preview SDK Release  |  | [#5732](https://github.com/Azure/sdk-release-request/issues/5732)  |  |  | 11-18 | 12-27 |  |

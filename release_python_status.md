@@ -1,9 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |
-| 2 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
-| 3 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | new comment. HoldOn. | 12-09 | 01-25 |  |
-| 4 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
-| 5 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new comment. HoldOn. | 11-11 | 01-25 |  |
-| 6 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | close to release date. HoldOn. | 10-22 | 12-27 | 0 |
-| 7 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-25 |  |
+| 1 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | Attention to inconsistent tag. | 12-26 | 01-24 |  |
+| 2 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |
+| 3 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
+| 4 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | new comment. HoldOn. | 12-09 | 01-25 |  |
+| 5 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
+| 6 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new comment. HoldOn. | 11-11 | 01-25 |  |
+| 7 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | close to release date. HoldOn. | 10-22 | 12-27 | 0 |
+| 8 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-25 |  |

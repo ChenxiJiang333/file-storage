@@ -8,5 +8,5 @@
 | 6 | App Services (DNL GA)  | [#5711](https://github.com/Azure/sdk-release-request/issues/5711)  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/Python/ |
 | 7 | Release for Azure Cloud HSM - 2024-06-30-preview  | [#5627](https://github.com/Azure/sdk-release-request/issues/5627)  |  |  |  | 10-22 | 12-27 | Hold on by Python/ |
 | 8 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Go/Python/ |
-| 9 | 'Release for PostgreSQL flexible servers GA - 2024-08-01'  |  |  | [#5789](https://github.com/Azure/sdk-release-request/issues/5789)  | [#5790](https://github.com/Azure/sdk-release-request/issues/5790)  | 12-24 | 01-07 |  |
-| 10 | 'Release for PostgreSQL flexible servers GA API version 2024-08-01'  |  | [#5654](https://github.com/Azure/sdk-release-request/issues/5654)  |  |  | 10-29 | 11-05 |  |
+| 9 | 'Release for PostgreSQL flexible servers GA API version 2024-08-01'  |  | [#5654](https://github.com/Azure/sdk-release-request/issues/5654)  |  |  | 10-29 | 11-05 |  |
+| 10 | 'Release for PostgreSQL flexible servers GA - 2024-08-01'  |  |  |  | [#5790](https://github.com/Azure/sdk-release-request/issues/5790)  | 12-24 | 01-07 |  |

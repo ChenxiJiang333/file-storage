@@ -16,7 +16,8 @@
     "azure-mgmt-hybridconnectivity",
     "azure-mgmt-connectedcache",
     "azure-mgmt-deviceregistry",
-    "azure-mgmt-pineconevectordb"
+    "azure-mgmt-pineconevectordb",
+    "azure-mgmt-computeschedule"
   ],
   "js": [],
   "go": [],

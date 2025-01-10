@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new issue. | 01-09 | 01-24 |  |
+| 1 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 |  | 01-09 | 01-24 |  |
 | 2 | [#5799](https://github.com/Azure/sdk-release-request/issues/5799) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 01-06 | 01-24 |  |
 | 3 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 |  | 12-26 | 01-24 |  |
 | 4 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |

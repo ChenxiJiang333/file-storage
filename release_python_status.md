@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5822](https://github.com/Azure/sdk-release-request/issues/5822) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 | new issue. MultiAPI | 01-15 | fail to get. |  |
+| 1 | [#5822](https://github.com/Azure/sdk-release-request/issues/5822) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 01-15 | fail to get. |  |
 | 2 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 01-13 | 02-28 |  |
 | 3 | [#5816](https://github.com/Azure/sdk-release-request/issues/5816) | ChenxiJiang333 | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 01-13 | fail to get. |  |
 | 4 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 01-10 | 01-24 |  |

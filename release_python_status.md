@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 | Attention to inconsistent tag. | 01-15 | 02-28 |  |
-| 2 | [#5826](https://github.com/Azure/sdk-release-request/issues/5826) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | Attention to inconsistent tag. | 01-15 | 01-24 |  |
+| 1 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 | new issue. | 01-15 | 02-28 |  |
+| 2 | [#5826](https://github.com/Azure/sdk-release-request/issues/5826) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | new issue. | 01-15 | 01-24 |  |
 | 3 | [#5822](https://github.com/Azure/sdk-release-request/issues/5822) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 01-15 | fail to get. |  |
 | 4 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 01-13 | 02-28 |  |
 | 5 | [#5816](https://github.com/Azure/sdk-release-request/issues/5816) | ChenxiJiang333 | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 01-13 | fail to get. |  |
-| 6 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 01-10 | 01-24 |  |
-| 7 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | TypeSpec. | 01-09 | 01-24 |  |
+| 6 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 01-10 | 01-24 |  |
+| 7 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstGA. TypeSpec. | 01-09 | 01-24 |  |
 | 8 | [#5799](https://github.com/Azure/sdk-release-request/issues/5799) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 01-06 | 01-24 |  |
 | 9 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 |  | 12-26 | 01-24 |  |
 | 10 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |

@@ -10,7 +10,7 @@
 | 8 | [#5799](https://github.com/Azure/sdk-release-request/issues/5799) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 01-06 | 01-24 |  |
 | 9 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 12-26 | 01-24 |  |
 | 10 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 |  | 12-16 | 01-23 |  |
-| 11 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw |  | ChenxiJiang333 |  | 12-11 |  | 0 |
+| 11 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw | azure-mgmt-pineconevectordb | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 12-11 | 01-24 |  |
 | 12 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 01-25 |  |
 | 13 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
 | 14 | [#5711](https://github.com/Azure/sdk-release-request/issues/5711) | nineela | azure-mgmt-web | ChenxiJiang333 | new comment. HoldOn. | 11-11 | 01-25 |  |

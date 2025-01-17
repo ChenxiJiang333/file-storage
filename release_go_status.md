@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5828](https://github.com/Azure/sdk-release-request/issues/5828) | mbashtovayamicrosoft.com |  | jliusan | Attention to inconsistent tag. | 01-15 | 02-28 |  |
+| 1 | [#5828](https://github.com/Azure/sdk-release-request/issues/5828) | mbashtovayamicrosoft.com |  | jliusan | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
 | 2 | [#5823](https://github.com/Azure/sdk-release-request/issues/5823) | tejasm-microsoft |  | jliusan | Attention to inconsistent tag. | 01-15 | 01-24 |  |
 | 3 | [#5817](https://github.com/Azure/sdk-release-request/issues/5817) | mattgotteiner |  | jliusan | Attention to inconsistent tag. | 01-13 | 02-28 |  |
 | 4 | [#5811](https://github.com/Azure/sdk-release-request/issues/5811) | alexmahonic |  | jliusan | new issue. HoldOn. | 01-10 | 01-24 |  |

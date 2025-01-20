@@ -8,7 +8,6 @@
 | 6 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 01-09 | 01-24 |  |
 | 7 | [#5802](https://github.com/Azure/sdk-release-request/issues/5802) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 |  | 01-08 | 01-30 |  |
 | 8 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 12-26 | 01-24 |  |
-| 9 | [#5787](https://github.com/Azure/sdk-release-request/issues/5787) | aandukuria | azure-mgmt-redis | ChenxiJiang333 | close to release date. | 12-16 | 01-23 | 2 |
 | 10 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw | azure-mgmt-pineconevectordb | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 12-11 | 01-24 |  |
 | 11 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 01-25 |  |
 | 12 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 02-21 |  |

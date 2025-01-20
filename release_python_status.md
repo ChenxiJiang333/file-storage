@@ -1,10 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
-| 2 | [#5826](https://github.com/Azure/sdk-release-request/issues/5826) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-15 | 01-24 |  |
+| 2 | [#5826](https://github.com/Azure/sdk-release-request/issues/5826) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | HoldOn. | 01-15 | 01-24 |  |
 | 3 | [#5822](https://github.com/Azure/sdk-release-request/issues/5822) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 01-15 | fail to get. |  |
 | 4 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
-| 5 | [#5816](https://github.com/Azure/sdk-release-request/issues/5816) | ChenxiJiang333 | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 01-13 | fail to get. |  |
 | 6 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 01-10 | 01-24 |  |
 | 7 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 01-09 | 01-24 |  |
 | 8 | [#5802](https://github.com/Azure/sdk-release-request/issues/5802) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 |  | 01-08 | 01-30 |  |

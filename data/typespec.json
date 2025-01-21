@@ -17,7 +17,8 @@
     "azure-mgmt-connectedcache",
     "azure-mgmt-deviceregistry",
     "azure-mgmt-pineconevectordb",
-    "azure-mgmt-computeschedule"
+    "azure-mgmt-computeschedule",
+    "azure-mgmt-servicenetworking"
   ],
   "js": [],
   "go": [],

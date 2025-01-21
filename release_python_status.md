@@ -2,11 +2,9 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
 | 2 | [#5826](https://github.com/Azure/sdk-release-request/issues/5826) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | new comment. close to release date. HoldOn. | 01-15 | 01-24 | 2 |
-| 3 | [#5822](https://github.com/Azure/sdk-release-request/issues/5822) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 01-15 | fail to get. |  |
 | 4 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
 | 5 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | new comment. close to release date. HoldOn. TypeSpec. | 01-10 | 01-24 | 2 |
-| 6 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 01-09 | 01-24 | 2 |
-| 7 | [#5802](https://github.com/Azure/sdk-release-request/issues/5802) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 | new comment. | 01-08 | 01-30 |  |
+| 6 | [#5809](https://github.com/Azure/sdk-release-request/issues/5809) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 01-09 | 01-24 | 2 |
 | 8 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | close to release date. HoldOn. TypeSpec. | 12-26 | 01-24 | 2 |
 | 9 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw | azure-mgmt-pineconevectordb | ChenxiJiang333 | close to release date. FirstBeta. HoldOn. TypeSpec. | 12-11 | 01-24 | 2 |
 | 10 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 01-25 |  |

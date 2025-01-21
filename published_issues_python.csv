@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-eventhub,schaudhari6254888,ChenxiJiang333,2025-01-08,2025-01-21,https://github.com/Azure/sdk-release-request/issues/5802,11.2.0,True
+azure-mgmt-storage,ChenxiJiang333,ChenxiJiang333,2025-01-15,2025-01-21,https://github.com/Azure/sdk-release-request/issues/5822,22.0.0,True
 azure-mgmt-redis,azure-sdk,ChenxiJiang333,2024-12-16,2025-01-20,https://github.com/Azure/sdk-release-request/issues/5787,14.5.0,True
 azure-mgmt-containerservice,ChenxiJiang333,ChenxiJiang333,2025-01-13,2025-01-20,https://github.com/Azure/sdk-release-request/issues/5816,34.0.0,True
 azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-01-06,2025-01-20,https://github.com/Azure/sdk-release-request/issues/5799,34.0.0,True

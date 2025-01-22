@@ -4,7 +4,7 @@
 | 2 | [#5825](https://github.com/Azure/sdk-release-request/issues/5825) | tejasm-microsoft |  | qiaozha | close to release date. Attention to inconsistent tag. HoldOn. | 01-15 | 01-24 | 1 |
 | 3 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha |  | 01-13 | 02-28 |  |
 | 4 | [#5813](https://github.com/Azure/sdk-release-request/issues/5813) | alexmahonic |  | MaryGao | close to release date. HoldOn. | 01-10 | 01-24 | 1 |
-| 5 | [#5808](https://github.com/Azure/sdk-release-request/issues/5808) | NneOkeke |  | MaryGao | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 01-09 | 01-24 | 1 |
+| 5 | [#5808](https://github.com/Azure/sdk-release-request/issues/5808) | NneOkeke |  | MaryGao | close to release date. FirstGA. TypeSpec. | 01-09 | 01-24 | 1 |
 | 6 | [#5798](https://github.com/Azure/sdk-release-request/issues/5798) | grizzlytheodore |  | MaryGao | close to release date. | 01-06 | 01-24 | 1 |
 | 7 | [#5793](https://github.com/Azure/sdk-release-request/issues/5793) | cdxu-147 |  | MaryGao | new comment. close to release date. HoldOn. | 12-26 | 01-24 | 1 |
 | 8 | [#5786](https://github.com/Azure/sdk-release-request/issues/5786) | aandukuria |  | qiaozha | new comment. close to release date. | 12-16 | 01-23 | 0 |

@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5829](https://github.com/Azure/sdk-release-request/issues/5829) | mbashtovayamicrosoft.com |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
-| 2 | [#5824](https://github.com/Azure/sdk-release-request/issues/5824) | tejasm-microsoft |  | v-hongli1 | close to release date. Attention to inconsistent tag. HoldOn. | 01-15 | 01-24 | 1 |
+| 2 | [#5824](https://github.com/Azure/sdk-release-request/issues/5824) | tejasm-microsoft |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 01-15 | 01-24 | 1 |
 | 3 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 |  | 01-13 | 02-28 |  |
 | 4 | [#5812](https://github.com/Azure/sdk-release-request/issues/5812) | alexmahonic |  | v-hongli1 | close to release date. HoldOn. | 01-10 | 01-24 | 1 |
 | 5 | [#5807](https://github.com/Azure/sdk-release-request/issues/5807) | NneOkeke |  | XiaofeiCao | new comment. close to release date. FirstGA. TypeSpec. | 01-09 | 01-24 | 1 |

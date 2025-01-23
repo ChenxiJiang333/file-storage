@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5841](https://github.com/Azure/sdk-release-request/issues/5841) | avirupcha | azure-mgmt-network | ChenxiJiang333 | new issue. | 01-23 | 02-28 |  |
+| 1 | [#5841](https://github.com/Azure/sdk-release-request/issues/5841) | avirupcha | azure-mgmt-network | ChenxiJiang333 |  | 01-23 | 02-28 |  |
 | 2 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | FirstBeta. TypeSpec. | 01-23 | 02-28 |  |
 | 3 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
 | 4 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |

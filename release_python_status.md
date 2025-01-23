@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | new issue. | 01-23 | 02-28 |  |
+| 1 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 |  | 01-23 | 02-28 |  |
 | 2 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
 | 3 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
 | 4 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | new comment. close to release date. HoldOn. TypeSpec. | 01-10 | 01-24 | 0 |

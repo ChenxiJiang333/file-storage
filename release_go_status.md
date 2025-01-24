@@ -1,12 +1,14 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5838](https://github.com/Azure/sdk-release-request/issues/5838) | avirupcha |  | jliusan | new issue. | 01-23 | 02-28 |  |
-| 2 | [#5833](https://github.com/Azure/sdk-release-request/issues/5833) | Renyx1219 |  | jliusan | new issue. | 01-23 | 02-28 |  |
-| 3 | [#5828](https://github.com/Azure/sdk-release-request/issues/5828) | mbashtovayamicrosoft.com |  | jliusan | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
-| 4 | [#5817](https://github.com/Azure/sdk-release-request/issues/5817) | mattgotteiner |  | jliusan |  | 01-13 | 02-28 |  |
-| 5 | [#5811](https://github.com/Azure/sdk-release-request/issues/5811) | alexmahonic |  | jliusan | new issue. close to release date. HoldOn. | 01-10 | 01-24 | 0 |
-| 6 | [#5801](https://github.com/Azure/sdk-release-request/issues/5801) | schaudhari6254888 |  | jliusan | new issue. new comment. | 01-08 | 01-30 |  |
-| 7 | [#5791](https://github.com/Azure/sdk-release-request/issues/5791) | cdxu-147 |  | jliusan | close to release date. | 12-26 | 01-24 | 0 |
-| 8 | [#5774](https://github.com/Azure/sdk-release-request/issues/5774) | aggarwalsw |  | jliusan | new comment. close to release date. FirstBeta. HoldOn. | 12-11 | 01-24 | 0 |
-| 9 | [#5722](https://github.com/Azure/sdk-release-request/issues/5722) | berndverst |  | jliusan | new issue. new comment. FirstBeta. HoldOn. TypeSpec. | 11-15 | 02-21 |  |
-| 10 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 | 0 |
+| 1 | [#5848](https://github.com/Azure/sdk-release-request/issues/5848) | guyhirPublic |  | jliusan | new issue. | 01-23 | 12-26 |  |
+| 2 | [#5843](https://github.com/Azure/sdk-release-request/issues/5843) | adityareddy305 |  | jliusan | new issue. | 01-23 | 12-27 |  |
+| 3 | [#5838](https://github.com/Azure/sdk-release-request/issues/5838) | avirupcha |  | jliusan | new issue. | 01-23 | 02-28 |  |
+| 4 | [#5833](https://github.com/Azure/sdk-release-request/issues/5833) | Renyx1219 |  | jliusan | new issue. | 01-23 | 02-28 |  |
+| 5 | [#5828](https://github.com/Azure/sdk-release-request/issues/5828) | mbashtovayamicrosoft.com |  | jliusan | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
+| 6 | [#5817](https://github.com/Azure/sdk-release-request/issues/5817) | mattgotteiner |  | jliusan |  | 01-13 | 02-28 |  |
+| 7 | [#5811](https://github.com/Azure/sdk-release-request/issues/5811) | alexmahonic |  | jliusan | new issue. close to release date. HoldOn. | 01-10 | 01-24 | 0 |
+| 8 | [#5801](https://github.com/Azure/sdk-release-request/issues/5801) | schaudhari6254888 |  | jliusan | new issue. new comment. | 01-08 | 01-30 |  |
+| 9 | [#5791](https://github.com/Azure/sdk-release-request/issues/5791) | cdxu-147 |  | jliusan | close to release date. | 12-26 | 01-24 | 0 |
+| 10 | [#5774](https://github.com/Azure/sdk-release-request/issues/5774) | aggarwalsw |  | jliusan | new comment. close to release date. FirstBeta. HoldOn. | 12-11 | 01-24 | 0 |
+| 11 | [#5722](https://github.com/Azure/sdk-release-request/issues/5722) | berndverst |  | jliusan | new issue. new comment. FirstBeta. HoldOn. TypeSpec. | 11-15 | 02-21 |  |
+| 12 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 01-24 | 0 |

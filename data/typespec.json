@@ -18,7 +18,8 @@
     "azure-mgmt-deviceregistry",
     "azure-mgmt-pineconevectordb",
     "azure-mgmt-computeschedule",
-    "azure-mgmt-servicenetworking"
+    "azure-mgmt-servicenetworking",
+    "azure-mgmt-impactreporting"
   ],
   "js": [],
   "go": [],
